@@ -1,0 +1,102 @@
+Kaushal Public License v1.0 (KPL-1.0)
+Copyright (C) 2025 Kaushal Pratap Singh Nathawat
+
+This license governs the use, reproduction, modification, and distribution of the software project known as "MyOS" and any associated files, scripts, design elements, modules, graphical assets, documentation, and intellectual property created and published by the author ("The Work").
+
+----------------------------------------------------------------
+Section 1: DEFINITIONS
+----------------------------------------------------------------
+
+1.1. "Author" refers to Kaushal Pratap Singh Nathawat, the original creator and sole intellectual owner of The Work.
+
+1.2. "The Work" refers to the source code, object code, configuration files, build scripts, artwork, documentation, user interfaces, installation systems, and all other related assets or components of the software known as "MyOS" and its associated desktop environment, tools, or systems.
+
+1.3. "Derivative Work" refers to any modified, forked, extended, or adapted version of The Work.
+
+1.4. "Commercial Use" refers to any use of The Work that directly or indirectly generates revenue or is monetised through products, services, advertisements, SaaS models, licensing, crowdfunding, resale, bundling, or any form of compensation or business integration.
+
+1.5. "Contributor" refers to any third party submitting code, designs, translations, or feedback to the project through pull requests, patches, emails, etc.
+
+----------------------------------------------------------------
+Section 2: RIGHTS GRANTED
+----------------------------------------------------------------
+
+2.1. **Personal Use** – Anyone is free to use, run, and study The Work for personal, educational, or non-commercial purposes.
+
+2.2. **Modification & Experimentation** – Users may clone, fork, and modify the Work for private use, research, or contribution, provided that all modified versions clearly state their derivation from the original author.
+
+2.3. **Open Contribution** – Contributions are welcome. All contributions become part of The Work and fall under the same licensing structure. By submitting, contributors agree to:
+   - Assign joint authorship to the Author
+   - Waive any commercial claim on the Work
+   - Retain their right to be credited publicly
+
+----------------------------------------------------------------
+Section 3: PROHIBITIONS
+----------------------------------------------------------------
+
+3.1. **No Commercial Exploitation** – The Work may not be sold, monetised, redistributed in commercial products, or used in revenue-generating systems (e.g., SaaS, embedded systems, pre-built OS devices, paid cloud offerings, app stores) without the express written permission of the Author.
+
+3.2. **No Rebranding or Misrepresentation** – No part of The Work may be rebranded, renamed, or represented as original work by any person or entity other than the Author. This includes removing credits, changing names, or misleading users about the source of origin.
+
+3.3. **No AI Training or Data Harvesting** – The Work may not be used to train AI models, data-mining systems, or code generators without explicit permission from the Author.
+
+3.4. **No Derivative Monetisation** – Derivative Works cannot be monetised or integrated into monetised systems without an explicit commercial license granted by the Author.
+
+----------------------------------------------------------------
+Section 4: ATTRIBUTION
+----------------------------------------------------------------
+
+4.1. **Mandatory Credit** – All forks, clones, or publications (public or private) must include the following visible attribution:
+   - “Originally created by Kaushal Pratap Singh Nathawat”
+   - A link to the original GitHub repository
+   - The license file (this file) intact and unaltered
+
+4.2. **UI/UX Attribution** – If any visual elements, widgets, logos, icons, or design patterns from The Work are used in another system (even modified), credit must be given clearly within the About section, system credits, or documentation.
+
+----------------------------------------------------------------
+Section 5: ENFORCEMENT
+----------------------------------------------------------------
+
+5.1. **Legal Jurisdiction** – This license is governed by the laws of India and applicable international copyright and intellectual property laws.
+
+5.2. **Right to Sue** – The Author reserves full right to take legal action (civil or criminal) against any individual, organisation, or entity that:
+   - Misuses The Work in violation of this license
+   - Monetises the Work or any Derivative Work without permission
+   - Rebrands, plagiarises, or publicly claims authorship or ownership
+
+5.3. **Proof of Ownership** – The Author’s GitHub commit history, repository timestamps, offline backups, development logs, and published designs serve as official records of authorship and originality.
+
+5.4. **Termination** – Any user found violating this license will have their rights to use The Work terminated immediately. They must cease all distribution and delete any copies or derivative works.
+
+----------------------------------------------------------------
+Section 6: COMMERCIAL LICENSE OPTION
+----------------------------------------------------------------
+
+6.1. Commercial use, bundling, resale, or monetisation is possible only through a **separate commercial agreement**.
+
+6.2. Interested parties must contact the Author via the email below to negotiate a license fee, royalty, or partnership model.
+
+Email for commercial inquiries: **[kaushalpratap3d@gmail.com]**  
+
+----------------------------------------------------------------
+Section 7: WARRANTY & LIABILITY
+----------------------------------------------------------------
+
+7.1. This software is provided “AS IS” without warranty of any kind.
+
+7.2. The Author shall not be held liable for any damages arising from the use, failure, or misuse of the Work, including data loss, system failure, or financial harm.
+
+7.3. Users are fully responsible for any systems they build using this Work.
+
+----------------------------------------------------------------
+TL;DR (Plain English Summary)
+----------------------------------------------------------------
+
+- This is my original work. You're free to use it, build on it, and contribute — but you cannot sell it or call it your own.
+- You must always credit me.
+- You cannot rebrand, monetise, or exploit it without my permission.
+- Legal action will be taken if you violate this.
+- For commercial use — ask me first.
+
+----------------------------------------------------------------
+© 2025 Kaushal Pratap Singh Nathawat. All Rights Reserved.
