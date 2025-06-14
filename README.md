@@ -11,3 +11,11 @@ I'm starting with Linux as base system and then will playaround with it to learn
 *No bloatware / Fully Custonmizable / lightweight / beautiful and aesthetic / Privacy and security focused / run windows apps like they're native*
 
 I'll be sharing all the files and documentation here on github. 
+
+## License
+🛡️ Licensed under Kaushal Public License v1.0 (KPL-1.0)  
+See [LICENSE](./LICENSE) for full terms.
+
+🚫 Commercial use is prohibited without written permission.
+
+![License: KPL-1.0](https://img.shields.io/badge/license-KPL--1.0-blue.svg)
