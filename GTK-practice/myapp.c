@@ -1,15 +1,34 @@
-#include <gtk/gtk-a11y.h>
 #include <gtk/gtk.h>
-#include <gtk/gtkx.h>
 
-int main(int argc, char *argv[]) {
+static void print_hello(GtkWidget *widget, gpointer data){
+    g_print("Hello World\n");
+}
+
+static void activate(GtkApplication *app, gpointer user_data){
+
     GtkWidget *window;
-    gtk_init(&argc, &argv);
-    window = gtk_window_new(GTK_WINDOW_TOPLEVEL);
-    gtk_window_set_title(GTK_WINDOW(window), "GTK Ready!");
-    gtk_window_set_default_size(GTK_WINDOW(window), 400, 200);
-    g_signal_connect(window, "destroy", G_CALLBACK(gtk_main_quit), NULL);
+    GtkWidget *button;
+
+    window = gtk_application_window_new(app);
+    gtk_window_set_title(GTK_WINDOW(window), "Hello");
+    gtk_window_set_default_size(GTK_WINDOW(window), 200, 200);
+
+    button = gtk_button_new_with_label("Hello World");
+    g_signal_connect(button, "clicked", G_CALLBACK(print_hello), NULL);
+    gtk_container_add(GTK_CONTAINER(window), button);
+
     gtk_widget_show_all(window);
-    gtk_main();
-    return 0;
+}
+
+int main(int argc, char **argv){
+
+    GtkApplication *app;
+    int status;
+
+    app = gtk_application_new("org.gtk.example", G_APPLICATION_DEFAULT_FLAGS);
+    g_signal_connect(app, "activate", G_CALLBACK(activate), NULL);
+    status = g_application_run(G_APPLICATION(app), argc, argv);
+    g_object_unref(app);
+
+    return status;
 }
